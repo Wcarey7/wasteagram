@@ -11,3 +11,11 @@ Implement Wasteagram, a mobile app that enables coffee shop employees to documen
     4. Implement unit tests to validate application behavior. 
     5. Incorporate the Semantics widget to facilitate accessibility features of native platforms. 
     6. Demonstrate the use of analytics, crash reporting, and debugging tools.
+
+
+
+
+
+
+https://user-images.githubusercontent.com/13939125/189551953-0b1d3497-afd3-47a2-b059-5ab4342c316b.mp4
+

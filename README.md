@@ -17,5 +17,9 @@ Implement Wasteagram, a mobile app that enables coffee shop employees to documen
 
 
 
-https://user-images.githubusercontent.com/13939125/189551953-0b1d3497-afd3-47a2-b059-5ab4342c316b.mp4
+
+
+
+https://user-images.githubusercontent.com/13939125/189552076-89213ac9-2726-47cb-b626-75a25c9e968c.mp4
+
 
